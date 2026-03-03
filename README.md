@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Nitish Singh Kushwaha
 
-<!--
-**Nitishkushwaha506/Nitishkushwaha506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web Developer Intern at theAllsafe  
+💻 Laravel | React.js | PostgreSQL | REST APIs  
+🎯 Backend-focused Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 Currently working on CRM Systems & Workflow Automation
+- 🌱 Learning Advanced Laravel & System Design
+- 💡 Passionate about Backend Architecture & Clean Code
+- 📊 Building real-world scalable applications
+
+---
+
+## 🛠 Tech Stack
+- Backend: PHP, Laravel
+- Frontend: React.js, JavaScript, Tailwind CSS
+- Database: MySQL, PostgreSQL
+- Tools: Git, Postman, VS Code
+
+---
+
+## 🚀 Current Projects
+- 🔹 Elavix CRM (Laravel + React)
+- 🔹 Pixel (User Analytics Platform)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (Add your link)
+- Email: nitish.s.kushwaha@theallsafe.com
