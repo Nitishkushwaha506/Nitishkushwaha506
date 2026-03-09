@@ -221,7 +221,7 @@
 </div>
 
 <!-- Hover Effect CSS (Optional - if you want to add style tags) -->
-<style>
+<!-- <style>
   a:hover {
     transform: scale(1.05);
     transition: transform 0.3s ease;
@@ -233,4 +233,4 @@
     transform: translateY(-5px);
     box-shadow: 0 5px 15px rgba(106, 90, 205, 0.3);
   }
-</style>
+</style> -->
